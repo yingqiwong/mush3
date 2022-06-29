@@ -8,4 +8,4 @@
 **/*.fig
 **/*.eps
 **/*.pdf
-
+**/*Manifest.toml
